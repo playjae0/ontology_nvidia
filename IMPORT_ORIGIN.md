@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 # Upstream source
 
 This repository will import NVIDIA/auto-ontology as a source snapshot.

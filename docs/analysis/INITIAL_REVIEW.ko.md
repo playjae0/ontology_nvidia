@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 # NVIDIA Auto-Ontology 초기 코드 분석
 
 ## 가져온 범위
